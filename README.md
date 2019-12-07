@@ -43,7 +43,7 @@ it contains a lot of categories, once you select specefic category, you get many
 - Quotes Search Result
 <img src="https://raw.githubusercontent.com/TahaMahmoud/Nabta/master/Screenshots/QuotesSearch2.png">
 
--Empty
+- Empty
 <img src="https://raw.githubusercontent.com/TahaMahmoud/Nabta/master/Screenshots/Empty.png">
 
 - Photos Articles
@@ -68,7 +68,7 @@ it contains a lot of categories, once you select specefic category, you get many
 <img src="https://raw.githubusercontent.com/TahaMahmoud/Nabta/master/Screenshots/NoInternet.png">
 
 - Saved Items 
-<img src="https://raw.githubusercontent.com/TahaMahmoud/Nabta/master/Screenshots/SavedItems.png">
+<img src="https://raw.githubusercontent.com/TahaMahmoud/Nabta/master/Screenshots/SaveItems.png">
 
 - Report An Issue
 <img src="https://raw.githubusercontent.com/TahaMahmoud/Nabta/master/Screenshots/Problem.png">
